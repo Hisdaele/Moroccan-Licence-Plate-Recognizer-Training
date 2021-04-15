@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG-20200728-WA0026.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>719</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>492</ymin>
+			<xmax>457</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>

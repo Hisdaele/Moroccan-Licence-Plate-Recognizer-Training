@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_0319.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>774</width>
+		<height>1032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>253</ymin>
+			<xmax>410</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

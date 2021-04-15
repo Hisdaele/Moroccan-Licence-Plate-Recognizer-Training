@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3b62c9e133159a24.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>865</ymin>
+			<xmax>684</xmax>
+			<ymax>879</ymax>
+		</bndbox>
+	</object>
+</annotation>

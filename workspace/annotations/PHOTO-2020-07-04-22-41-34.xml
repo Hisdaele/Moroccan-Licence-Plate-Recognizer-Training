@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>PHOTO-2020-07-04-22-41-34.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>589</ymin>
+			<xmax>491</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+</annotation>

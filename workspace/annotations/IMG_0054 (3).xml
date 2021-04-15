@@ -1,0 +1,25 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_0054 (3).jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licence</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>253</ymin>
+			<xmax>622</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>
